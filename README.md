@@ -1,4 +1,4 @@
-# weatherapp
+# Weather App by SISTRAIN
 This app was built by SISTRAIN member.
 Weather app using BLoC architecture and resful API. 
 
