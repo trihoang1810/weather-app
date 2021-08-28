@@ -1,7 +1,7 @@
 # Weather App by SISTRAIN
 This app was built by SISTRAIN members.
 
-Weather app using BLoC architecture and resful API. 
+Weather app using BLoC architecture and RESful API. 
 
 ## More about us
 Facebook: https://www.facebook.com/SistrainCenter
